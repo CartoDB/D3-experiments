@@ -1,6 +1,6 @@
-HTML5 experiments
+D3 experiments
 == 
 
-A collection of HTML5 based experiments by the Vizzuality/CartoDB team. 
+A collection of D3 based experiments by the CartoDB team. 
 
-Microsite: http://vizzuality.github.com/HTML5-experiments/
+Microsite: http://cartodb.github.com/D3-experiments/
